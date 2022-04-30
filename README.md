@@ -7,7 +7,7 @@
 # Ecomm Store Backend Features
 - REST APIs are developed using NodeJS and Express.
 - Database : MongoDB Atlas (Cloud)
-- JWT token is used authentication.
+- JWT token is used for authentication.
 - Implemented data security by allowing only authorized user to view the data based on their role using middlewares.
 - Uploaded images are stored in MongoDB in binary format.
 - Maintining the stock of products and updating the purchase list on each new order made by user.
